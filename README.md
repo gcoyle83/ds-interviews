@@ -1,3 +1,5 @@
+> Note: There was a mistake in the original instructions for this exercise requesting that candidates fork this repository. Please DO NOT do this. Instead, clone the repo and create a new repo of your own containing your work on these exercises. You can then share that repo with us so that we can review your work. Thanks!
+
 # Description
 This dataset is developed from an open USGS dataset for water quality monitoring at the Port of Albany (New York) on the Hudson River ([USGS Station Website](https://waterdata.usgs.gov/monitoring-location/01359165/#parameterCode=00010&period=P7D&showMedian=true)). The data have been processed and minimally QC'd. 
 
